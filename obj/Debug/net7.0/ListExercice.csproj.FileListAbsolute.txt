@@ -1,0 +1,14 @@
+D:\ListExercice\bin\Debug\net7.0\ListExercice.exe
+D:\ListExercice\bin\Debug\net7.0\ListExercice.deps.json
+D:\ListExercice\bin\Debug\net7.0\ListExercice.runtimeconfig.json
+D:\ListExercice\bin\Debug\net7.0\ListExercice.dll
+D:\ListExercice\bin\Debug\net7.0\ListExercice.pdb
+D:\ListExercice\obj\Debug\net7.0\ListExercice.GeneratedMSBuildEditorConfig.editorconfig
+D:\ListExercice\obj\Debug\net7.0\ListExercice.AssemblyInfoInputs.cache
+D:\ListExercice\obj\Debug\net7.0\ListExercice.AssemblyInfo.cs
+D:\ListExercice\obj\Debug\net7.0\ListExercice.csproj.CoreCompileInputs.cache
+D:\ListExercice\obj\Debug\net7.0\ListExercice.dll
+D:\ListExercice\obj\Debug\net7.0\refint\ListExercice.dll
+D:\ListExercice\obj\Debug\net7.0\ListExercice.pdb
+D:\ListExercice\obj\Debug\net7.0\ListExercice.genruntimeconfig.cache
+D:\ListExercice\obj\Debug\net7.0\ref\ListExercice.dll
