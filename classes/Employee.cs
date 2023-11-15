@@ -23,7 +23,7 @@ class Employee
 
     public override string ToString()
     {
-        return $" Id: {id} Name: {name} Salary {_salary}";
+        return $"{id}, {name}, {_salary}";
     }
 
 
